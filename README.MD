@@ -11,7 +11,7 @@ The "telebot" library provides a convenient interface for interacting with the T
 To install the "telebot" library, make sure you have Lua 5.3 and git installed. Then, execute the following command:
 
 ```
-git clone wefeknew/Telebot
+git clone wefeinew/Telebot
 ```
 
 ## Usage
